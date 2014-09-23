@@ -20,3 +20,7 @@ Speech vector is then calculated by averaging all the word vectors in the speech
 - .png files are respective tsne plots of speech vectors
 
 
+Here is the t-SNE plot of speech vectors: (labeled version is in the repo. You can download the image to use zoom functionality)
+
+![alt tag](https://github.com/prateekpg2455/U.S-Presidential-Speeches/blob/master/plot_without_labels.png)
+
