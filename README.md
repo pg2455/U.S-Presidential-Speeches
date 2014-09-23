@@ -20,3 +20,6 @@ Speech vector is then calculated by averaging all the word vectors in the speech
 - .png files are respective tsne plots of speech vectors
 
 
+Here is the t-SNE plot of speech vectors:
+[! alt tag]()
+
