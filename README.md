@@ -24,3 +24,5 @@ Here is the t-SNE plot of speech vectors: (labeled version is in the repo. You c
 
 ![alt tag](https://github.com/prateekpg2455/U.S-Presidential-Speeches/blob/master/plot_without_labels.png)
 
+Here is the distance matrix between speech. One might need to zoom in order to see year of speech vectors. Effective visualisation tool for zooming is the next project that I am working on. 
+![alt tag](https://github.com/prateekpg2455/U.S-Presidential-Speeches/blob/master/Speech_distances.png)
