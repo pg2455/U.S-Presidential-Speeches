@@ -4,7 +4,7 @@ U.S-Presidential-Speeches
 
 This is an attempt to analyse text of U.S. President's Speeches from 1790 to 2006 using Word2Vec model in gensim. 
 
-- Data in enclosed here as speech.txt
+- Data is enclosed here as speech.txt
 - all_speech.txt is the processed version of the speeches such that each line contains one processed speeches
 - data_processed.txt is the text file of json.dumps() containing full metadata from speech.txt in the form of list of dictionaries
       - 'who' : President's name
