@@ -1,3 +1,4 @@
+![DOI](https://zenodo.org/badge/22330884.svg)
 # U.S-Presidential-Speeches
 Analyze the text of U.S. President's Speeches from 1790 to 2006 using [Word2Vec](https://en.wikipedia.org/wiki/Word2vec)(w2v) model in [gensim](https://radimrehurek.com/gensim/).<br>
 <b>Note:</b> I worked on this project in July, 2014. There has been a lot of progress since then. <br>
